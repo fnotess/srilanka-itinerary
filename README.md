@@ -14,6 +14,8 @@ from driver and guide markup, with affiliate and service fees around it.
 | [docs/brief.md](docs/brief.md) | Settled decisions: build sequence, constraints, naming research, brand |
 | [docs/open-questions.md](docs/open-questions.md) | Open questions, current status of each, and pushback |
 | [docs/social-handles.md](docs/social-handles.md) | Handle availability check (manual, platforms block automation) |
+| [docs/payments-and-entity.md](docs/payments-and-entity.md) | Payment gateway and licensing options (SLTDA, STB), with a Phase 1 recommendation |
+| [content/attractions-phase1.csv](content/attractions-phase1.csv) | 45 Phase 1 attraction cards with fees, seasons and sources |
 | [docs/attraction-schema.md](docs/attraction-schema.md) | Why the attraction DB is shaped the way it is |
 | [db/schema.sql](db/schema.sql) | Postgres 16 + PostGIS schema draft (Phase 2) |
 | [db/seed-sample.sql](db/seed-sample.sql) | A few rows to sanity-check the schema |
