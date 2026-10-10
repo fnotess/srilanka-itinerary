@@ -1,0 +1,38 @@
+id,category,item,unit,low,high,currency,status,source,note
+fx_lkr_usd,fx,LKR per USD,rate,290,310,LKR,guessed,,Planning rate only. Check CBSL before quoting.
+drv_car,transport,Car + driver (1-3 pax),vehicle/day,50,70,USD,published,https://ouratravel.com/cost-hire-driver-sri-lanka/,Retail. Includes fuel and driver lodging per source; km limits not stated.
+drv_suv,transport,SUV/hybrid + driver (3-4 pax),vehicle/day,65,85,USD,published,https://ouratravel.com/cost-hire-driver-sri-lanka/,Retail.
+drv_van,transport,Van + driver (5-8 pax),vehicle/day,75,100,USD,published,https://ouratravel.com/cost-hire-driver-sri-lanka/,Retail. Source is internally inconsistent (70-100 elsewhere on page).
+drv_cg_premium,transport,Chauffeur-guide premium over plain driver,vehicle/day,10,20,USD,guessed,,Ask your driver network. Licensed chauffeur-guides charge more than plain drivers.
+drv_wholesale_car,transport,What we pay a licensed driver (car),vehicle/day,38,52,USD,guessed,,The number the whole margin depends on. Get 5 real quotes from your contacts.
+drv_tip,transport,Driver tip,day,5,10,USD,published,https://ouratravel.com/cost-hire-driver-sri-lanka/,Customary not mandatory.
+apt_cmb_negombo,transport,Airport pickup CMB to Negombo,trip,15,25,USD,guessed,,
+apt_cmb_colombo,transport,Airport pickup CMB to Colombo,trip,25,40,USD,guessed,,
+apt_cmb_kandy,transport,Airport transfer CMB to Kandy,trip,50,75,USD,guessed,,
+htl_budget,hotel,Budget guesthouse/homestay,room/night,10,30,USD,published,https://lankawebsites.com/blog/practical-travel-safety-planning/how-much-does-a-trip-to-sri-lanka-cost-budget-mid-range-luxury,Low end is dorms; a private double is more like 20-35 (guessed).
+htl_mid,hotel,Mid-range hotel,room/night,30,80,USD,published,https://lankawebsites.com/blog/practical-travel-safety-planning/how-much-does-a-trip-to-sri-lanka-cost-budget-mid-range-luxury,
+htl_boutique,hotel,Upper-mid / boutique,room/night,80,150,USD,guessed,,Gap in sources between mid and luxury. Likely where paying customers sit.
+htl_luxury,hotel,Luxury,room/night,120,400,USD,published,https://lankawebsites.com/blog/practical-travel-safety-planning/how-much-does-a-trip-to-sri-lanka-cost-budget-mid-range-luxury,Yala safari lodges 200-450.
+htl_peak_uplift,hotel,Peak season uplift,multiplier,1.20,1.30,ratio,published,https://lankawebsites.com/blog/practical-travel-safety-planning/how-much-does-a-trip-to-sri-lanka-cost-budget-mid-range-luxury,Dec-Mar south/west; Apr-Sep east.
+gde_national,guide,National tourist guide,day,40,70,USD,guessed,,No current published rate found. SLTDA has proposed rate floors before (ft.lk 2020); verify with SLTDA / guide association.
+gde_site,guide,Site guide at a heritage site (Sigiriya etc.),visit,10,20,USD,guessed,,
+fee_sigiriya,entry,Sigiriya Rock Fortress (foreign adult),person,35,35,USD,published,https://slvoyo.com/complete-guide-to-sri-lanka-entrance-fees-for-foreign-tourists-2026-updated-prices/,Child 20; SAARC adult 20. Two 2026 sources agree.
+fee_polonnaruwa,entry,Polonnaruwa ancient city (foreign adult),person,30,30,USD,published,https://slvoyo.com/complete-guide-to-sri-lanka-entrance-fees-for-foreign-tourists-2026-updated-prices/,Two sources agree.
+fee_anuradhapura,entry,Anuradhapura sacred area (foreign adult),person,30,30,USD,published,https://slvoyo.com/complete-guide-to-sri-lanka-entrance-fees-for-foreign-tourists-2026-updated-prices/,Two sources agree.
+fee_dambulla,entry,Dambulla cave temple (foreign adult),person,5,10,USD,conflicting,https://tuktukrental.com/sri-lanka-entrance-fees/,One source says USD 5; another says LKR 3000 (~USD 10) confirmed by visitor reports Aug 2025-Jan 2026. Trust the LKR 3000.
+fee_tooth,entry,Temple of the Tooth Kandy (foreign adult),person,6,7,USD,conflicting,https://tuktukrental.com/sri-lanka-entrance-fees/,USD 6 vs LKR 2000. Roughly the same money; confirm which the gate charges.
+fee_peradeniya,entry,Peradeniya botanical gardens (foreign adult),person,11,12,USD,published,https://slvoyo.com/complete-guide-to-sri-lanka-entrance-fees-for-foreign-tourists-2026-updated-prices/,LKR 3540 elsewhere.
+fee_pinnawala,entry,Pinnawala elephant orphanage (foreign adult),person,17,17,USD,published,https://slvoyo.com/complete-guide-to-sri-lanka-entrance-fees-for-foreign-tourists-2026-updated-prices/,Single source. Also an ethics question for the brand; consider leaving it out.
+fee_lotus,entry,Lotus Tower Colombo,person,20,20,USD,published,https://slvoyo.com/complete-guide-to-sri-lanka-entrance-fees-for-foreign-tourists-2026-updated-prices/,Two sources agree.
+fee_galle_fort,entry,Galle Fort (walking),person,0,0,USD,published,,Free. Individual museums inside charge 1.50-6.
+fee_ella_free,entry,Nine Arches Bridge / Little Adam's Peak,person,0,0,USD,published,https://tuktukrental.com/sri-lanka-entrance-fees/,Free.
+fee_park_base,entry,National park base fee (Minneriya/Horton Plains/Wilpattu etc.),person,25,25,USD,published,https://slvoyo.com/complete-guide-to-sri-lanka-entrance-fees-for-foreign-tourists-2026-updated-prices/,Base ticket only. Real cost adds service charge + VAT + vehicle fee; see Yala row.
+fee_yala_allin,entry,Yala entry all-in (entry + service + VAT),person,42,45,USD,published,https://www.yalawildlife.com/blog/yala-national-park-entrance-fees-2026-taxes,Operator blog. Suggests base USD 25 parks cost ~USD 40-45 all-in.
+fee_park_allin,entry,Other national parks all-in,person,35,45,USD,guessed,,Extrapolated from Yala. Verify per park with DWC.
+jeep_half,entry,Safari jeep hire half day,jeep,40,55,USD,published,https://www.yalawildlife.com/blog/yala-national-park-entrance-fees-2026-taxes,Up to 6 pax. Mandatory in parks.
+rail_1st_ella,rail,Train 1st class to Ella (reserved),seat,4,10,USD,conflicting,https://www.thecommonwanderer.com/blog/kandy-to-ella-train-guide,Source says LKR 1200 in one place and 3000 in another. Kandy side currently suspended.
+rail_service_fee,rail,Our train-booking service fee,booking,5,15,USD,guessed,,Our price; not a market rate.
+food_budget,food,Meals per person,day,10,20,USD,guessed,,Local rice and curry / kottu.
+food_mid,food,Meals per person,day,20,40,USD,guessed,,
+food_luxury,food,Meals per person,day,40,80,USD,guessed,,
+aff_booking_commission,revenue,Hotel affiliate commission (share of booking value),ratio,0.03,0.06,ratio,guessed,,Check the actual Booking.com / Agoda affiliate terms before modelling on it.
