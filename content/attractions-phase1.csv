@@ -1,0 +1,46 @@
+slug,name,region,category,lat,lon,visit_min,visit_max,fee_foreign_adult,fee_currency,fee_status,fee_source,best_months,nearest_base,card_note
+sigiriya,Sigiriya Rock Fortress,cultural-triangle,heritage,7.9570,80.7603,120,210,35,USD,published,slvoyo+tuktukrental,1-9,sigiriya,Go at 07:00 opening. 1200 steps. SAARC 20 USD.
+pidurangala,Pidurangala Rock,cultural-triangle,viewpoint_hike,7.9670,80.7600,90,150,1000,LKR,published,tuktukrental,1-9,sigiriya,Best sunrise view of Sigiriya. Last bit is a scramble.
+dambulla-cave-temple,Dambulla Cave Temple,cultural-triangle,temple,7.8567,80.6490,60,90,3000,LKR,conflicting,tuktukrental (LKR 3000) vs slvoyo (USD 5),1-9,sigiriya,Cover shoulders and knees.
+polonnaruwa,Polonnaruwa Ancient City,cultural-triangle,heritage,7.9403,81.0188,180,300,30,USD,published,slvoyo+tuktukrental,1-9,sigiriya,Hire a bicycle. Hot by midday.
+anuradhapura,Anuradhapura Sacred City,cultural-triangle,heritage,8.3452,80.3886,180,360,30,USD,published,slvoyo+tuktukrental,1-9,anuradhapura,Sacred area ticket. Huge site; a full day.
+mihintale,Mihintale,cultural-triangle,temple,8.3510,80.5150,90,150,1000,LKR,conflicting,tuktukrental (LKR 1000) vs slvoyo (USD 3),1-9,anuradhapura,Birthplace of Buddhism in Sri Lanka. Steps; go early.
+minneriya-np,Minneriya National Park (safari),cultural-triangle,wildlife,8.0333,80.8500,180,240,25,USD,published,slvoyo (base fee only),7-10,sigiriya,"The Gathering": hundreds of elephants Jul-Oct. All-in fee higher plus jeep.
+kaudulla-np,Kaudulla National Park (safari),cultural-triangle,wildlife,8.1500,80.9000,180,240,25,USD,published,slvoyo (base fee only),8-12,sigiriya,Elephant alternative when Minneriya is quiet.
+ritigala,Ritigala Forest Monastery,cultural-triangle,heritage,8.1167,80.6500,90,150,6,USD,published,tuktukrental,1-9,sigiriya,Lesser-known jungle ruins. Good for reels.
+yapahuwa,Yapahuwa Rock Fortress,cultural-triangle,heritage,7.8200,80.3100,60,120,2000,LKR,published,tuktukrental,1-9,kurunegala,Lesser-known. Grand staircase. Usually empty.
+temple-of-the-tooth,Temple of the Sacred Tooth Relic,hill-country,temple,7.2936,80.6413,60,90,2000,LKR,conflicting,tuktukrental (LKR 2000) vs slvoyo (USD 6),1-12,kandy,Visit at a puja time. Shoulders and knees covered.
+peradeniya-gardens,Royal Botanic Gardens Peradeniya,hill-country,nature,7.2690,80.5960,90,180,11,USD,published,slvoyo (LKR 3540 at tuktukrental),1-12,kandy,
+kandy-dance,Kandyan Dance Show,hill-country,experience,7.2940,80.6430,60,60,2000,LKR,published,tuktukrental,1-12,kandy,Evening show near the lake.
+ambuluwawa,Ambuluwawa Tower,hill-country,viewpoint_hike,7.1610,80.5470,90,120,2000,LKR,conflicting,tuktukrental (LKR 2000) vs slvoyo (USD 9),1-4,kandy,Narrow spiral top; not for vertigo.
+horton-plains,Horton Plains & World's End,hill-country,nature,6.8020,80.8060,180,300,25,USD,published,slvoyo (base fee only),1-4,nuwara-eliya,Arrive by 06:30 before cloud covers the view. All-in fee higher.
+pedro-tea-estate,Tea factory visit (e.g. Pedro),hill-country,experience,6.9600,80.8000,60,90,,,unknown,,1-12,nuwara-eliya,Fee not researched yet.
+nanu-oya-ella-train,Train: Nanu Oya to Ella,hill-country,experience,6.9440,80.7670,180,240,,,unknown,,1-12,ella,Kandy side suspended since Cyclone Ditwah. Nanu Oya-Ella runs since 2026-07-18.
+nine-arches,Nine Arches Bridge,hill-country,viewpoint_hike,6.8768,81.0608,60,90,0,USD,published,tuktukrental,1-4,ella,Free. Check train times to see one cross.
+little-adams-peak,Little Adam's Peak,hill-country,viewpoint_hike,6.8640,81.0600,90,120,0,USD,published,tuktukrental,1-4,ella,Free. Easy sunrise hike.
+ella-rock,Ella Rock,hill-country,viewpoint_hike,6.8550,81.0400,180,240,3,USD,published,slvoyo,1-4,ella,Harder hike. Some guides charge informally on the path.
+ravana-falls,Ravana Falls,hill-country,nature,6.8410,81.0530,20,40,0,USD,guessed,,1-12,ella,Roadside stop; fullest after rain.
+lipton-seat,Lipton's Seat,hill-country,viewpoint_hike,6.7850,80.9640,120,180,,,unknown,,1-4,haputale,Fee not researched yet. Go for sunrise.
+adams-peak,Adam's Peak (Sri Pada),hill-country,viewpoint_hike,6.8096,80.4994,360,480,0,USD,guessed,,12-5,dalhousie,Night climb for sunrise. Season Dec-May only.
+knuckles,Knuckles Range hikes,hill-country,nature,7.4500,80.8000,240,480,40,USD,published,tuktukrental (some areas),1-4,kandy,Needs a local guide. Lesser-known.
+galle-fort,Galle Fort,south-coast,heritage,6.0264,80.2170,120,240,0,USD,published,tuktukrental,12-4,galle,Free to walk. Small museums inside charge 1.50-6 USD.
+mirissa-whales,Whale watching from Mirissa,south-coast,wildlife,5.9450,80.4580,240,360,50,USD,published,tuktukrental (from),11-4,mirissa,Blue whales. Seas rough outside season.
+jungle-beach,Jungle Beach / Unawatuna,south-coast,beach,6.0170,80.2370,120,240,0,USD,guessed,,12-4,galle,
+madu-ganga,Madu Ganga river safari,south-coast,nature,6.2900,80.0700,90,120,20,USD,published,tuktukrental (20-25),12-4,bentota,
+mulkirigala,Mulkirigala Rock Temple,south-coast,temple,6.1200,80.7380,90,120,500,LKR,published,tuktukrental,1-12,tangalle,Lesser-known cave temple.
+yala-np,Yala National Park (safari),south-coast,wildlife,6.3720,81.5200,240,360,42,USD,published,yalawildlife blog (all-in incl. VAT),2-8,tissamaharama,Leopards. Plus jeep 40-55 USD half day. Usually closes part of Sep-Oct.
+udawalawe-np,Udawalawe National Park (safari),south-coast,wildlife,6.4740,80.8990,180,240,,,conflicting,sources disagree (USD 15 vs USD 42),1-12,udawalawe,Most reliable elephant sightings year-round.
+bundala-np,Bundala National Park,south-coast,wildlife,6.2000,81.2500,180,240,12,USD,published,tuktukrental,9-3,tissamaharama,Birds. Migrants Sep-Mar.
+sinharaja,Sinharaja Rainforest,south-coast,nature,6.4000,80.4500,240,360,15,USD,published,tuktukrental,1-4,deniyaya,UNESCO rainforest. Guide required. Leeches.
+gangaramaya,Gangaramaya Temple,western,temple,6.9160,79.8560,45,90,20,USD,published,slvoyo,1-12,colombo,
+lotus-tower,Lotus Tower,western,viewpoint_hike,6.9270,79.8580,60,90,20,USD,published,slvoyo+tuktukrental,1-12,colombo,
+national-museum,Colombo National Museum,western,museum,6.9100,79.8610,90,120,5,USD,published,slvoyo,1-12,colombo,
+negombo-lagoon,Negombo fish market & lagoon,western,experience,7.2100,79.8400,90,180,,,unknown,,12-4,negombo,Good first or last day near the airport.
+pigeon-island,Pigeon Island snorkelling,east-coast,beach,8.7210,81.2050,180,240,25,USD,published,slvoyo (park fee; boat extra),5-9,trincomalee,Park fee only. Boat + snorkel about 48 USD.
+koneswaram,Koneswaram Temple,east-coast,temple,8.5800,81.2450,60,90,,,unknown,,4-9,trincomalee,
+arugam-bay,Arugam Bay,east-coast,beach,6.8400,81.8360,240,480,0,USD,guessed,,5-10,arugam-bay,Surf season May-Oct.
+pasikudah,Pasikudah Beach,east-coast,beach,7.9300,81.5600,180,360,0,USD,guessed,,4-9,batticaloa,Shallow calm bay. Good for families.
+kumana-np,Kumana National Park,east-coast,wildlife,6.5000,81.7000,240,360,25,USD,conflicting,tuktukrental (USD 25) vs slvoyo (USD 27),4-9,arugam-bay,Birds and leopards; far fewer jeeps than Yala.
+jaffna-fort,Jaffna Fort,north,heritage,9.6620,80.0080,60,90,5,USD,published,tuktukrental,1-9,jaffna,
+nallur,Nallur Kandaswamy Temple,north,temple,9.6750,80.0290,45,60,0,USD,guessed,,1-9,jaffna,Men remove shirts to enter.
+wilpattu-np,Wilpattu National Park,north-west,wildlife,8.4600,80.0400,240,360,25,USD,conflicting,slvoyo (USD 25) vs tuktukrental (USD 15),2-10,anuradhapura,Quieter leopard park than Yala.

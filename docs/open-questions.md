@@ -8,7 +8,7 @@ Last updated 2026-10-10.
 | 2 | Final name | Open. See note below. | |
 | 3 | Attraction DB schema | **Drafted** and tested on Postgres 16 + PostGIS. | [attraction-schema.md](attraction-schema.md) |
 | 4 | 2026 cost model | **First pass done.** Each figure marked published / conflicting / guessed. | [../cost-model/cost-model-2026.md](../cost-model/cost-model-2026.md) |
-| 5 | Payment / entity structure | Not started. | |
+| 5 | Payment / entity structure | **First pass done.** Key finding: SLTDA agencies must operate from Sri Lanka. | [payments-and-entity.md](payments-and-entity.md) |
 | 6 | Social content strategy | Not started. | |
 
 ## 2. Name: my view
